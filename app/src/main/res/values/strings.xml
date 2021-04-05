@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlcoolGasolina</string>
+    <string name="title">Álcool X Gasolina</string>
+    <string name="answer">Abasteça com</string>
+    <string name="developed_by">Desenvolvido por: Messias Junior</string>
+    <string name="button_calc">Calcular</string>
+    <string name="alcoolPrice">Preço do álcool</string>
+    <string name="gasolinePrice">Preço da gasolina</string>
+
+
+</resources>
